@@ -1,5 +1,14 @@
 # Gravity After General Relativity
 
+## Scope, Boundaries, and Non-Operational Nature
+
+This repository is strictly conceptual and meta-theoretical.
+
+It does not propose new physical laws, constants, entities, or testable models.
+It does not aim to falsify, replace, or extend General Relativity.
+It introduces no executable frameworks, predictive claims, or empirical procedures.
+
+Its purpose is structural interpretation and admissibility analysis only.
 This repository is a **conceptual, non-operational study** of gravity *after* General Relativity (GR).
 
 The goal is **not** to falsify GR, replace it, or propose new physical entities, laws, or constants.
