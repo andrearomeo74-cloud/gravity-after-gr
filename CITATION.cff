@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Gravity After General Relativity"
+authors:
+  - family-names: Romeo
+    given-names: Andrea
+year: 2026
+repository-url: https://github.com/andrearomeo74-cloud/gravity-after-gr
+license: CC-BY-NC-SA-4.0
